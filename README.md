@@ -69,3 +69,8 @@ split the data into three parts train,cross validation and test with 64%,16%,20%
 
 
 ![](Images/distribution_of_Y_CV_data.png)
+
+
+#### Takeaway from the above visualizations:
+We are operating on multi class classification problem and the data is imbalanced.
+The Train,Test and Cross Validation data have similar distribution of the class label Y.
