@@ -49,6 +49,6 @@ split the data into three parts train,cross validation and test with 64%,16%,20%
 
 ## Exploratory data analysis
 
-![](Distribution%20of%20Y%20in%20train%20data.jpg)
+![](images/Distribution%20of%20Y%20in%20train%20data.jpg)
 
 
