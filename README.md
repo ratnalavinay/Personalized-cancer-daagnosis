@@ -49,6 +49,14 @@ split the data into three parts train,cross validation and test with 64%,16%,20%
 
 ## Exploratory data analysis
 
+### Distribution of Yi in train data
 ![](Images/distribution_of_Y_in_TraindatA.png)
 
+### Distribution of Yi in test data
 
+![](Images/distribution_of_Y_in_Testdata.png)
+
+### Distribution of Yi in CV data
+
+
+![](Images/distribution_of_Y_CV_data.png)
