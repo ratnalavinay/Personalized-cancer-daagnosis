@@ -6,7 +6,12 @@ once a patient seems to have some problem, the first thing the doctors does is t
 
 ## Central Dogma of molecular biology
 
+
 ![](Images/Central%20Dogma.png)
+
+Nucleotides from the DNA are transcribed. They're complementary forms on RNA, which are then read as codons or groups of three to code for specific amino acids and a larger protein.Now, if you mutate one of the nucleotides on DNA that ultimately lead to abnormal protein production which may lead to cancer. 
+
+
  
  
  ## Problem Statement: 
