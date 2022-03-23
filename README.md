@@ -152,7 +152,7 @@ The text feature is the most important feature because the log loss is less for 
 ![](Images/confusion_matrix_logistic_regression.jpg)
 ![](Images/precision_matrix_logistic_regression.jpg)
 ![](Images/Recall_Matrix_logisticRegression.jpg)
-![](Images/BestHyperparameter_Logistic_regression.jpg)
+
 
 
 ## Analysis summary
