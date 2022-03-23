@@ -110,7 +110,40 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 
 #### Conclusion:
 
-The Logloss for the Gene Feature is less than the Random model so Gene feture seems to be 
+The Logloss for the Gene Feature is less than the Random model and the Gene Feature is stable because the CV and Test erroes are almost near to the Train error,there is significant difference between them.
+
+
+## Univariate analysis on Gene Variation
+
+#### PDF of GENE variation
+
+![](Images/Histogram_Gene_Variation.jpg)
+
+#### CDF of GENE Variation
+
+![](Images/CDF_Gene Variation.jpg)
+
+#### Best Hyperparameter for Gene Variation
+
+![](Images/Best_hyperparameter_Gene_Vatiation.jpg)
+
+#### Conclusion:
+
+
+Even Gene Variation feature is important because the log less is less when compared to Random model but Gene Variation is less stable becuase when compared to Gene feature.
+
+
+
+## Univariate analysis on Text Feature 
+
+
+#### Best Hyperparameter for  Text Feature 
+
+![](Images/Best_HyperParameter_Text.jpg)
+
+#### Conclusion:
+
+The text feature is the most important feature because the log loss for all the train,Test and CV data.
 
 
 
