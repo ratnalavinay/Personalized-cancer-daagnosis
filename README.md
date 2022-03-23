@@ -76,7 +76,6 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 
 ### Confusion matrix 
 
-
 ![](Images/confusion_matrix.jpg)
 
 
@@ -94,13 +93,11 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 
 ## Univariate analysis on Gene Feature 
 
-#### PDF of GENE feature
 
-![](Images/PDF_Gene_Feature%20.jpg)
-
-#### CDF of GENE feature
-
-![](Images/CDF_Gene-Feature.jpg)
+<p float="left">
+  <img src="Images/PDF_Gene_Feature%20.jpg" width="400" />
+  <img src="Images/CDF_Gene-Feature.jpg" width="400" /> 
+</p>
 
 #### Best Hyperparameter
 
@@ -113,20 +110,16 @@ The Logloss for the Gene Feature is less than the Random model and the Gene Feat
 
 ## Univariate analysis on Gene Variation
 
-#### PDF of GENE variation
-
-![](Images/Histogram_Gene_Variation.jpg)
-
-#### CDF of GENE Variation
-
-![](Images/CDF_Gene%20Variation.jpg)
+<p float="left">
+  <img src="Images/Histogram_Gene_Variation.jpg" width="400" />
+  <img src="Images/CDF_Gene%20Variation.jpg" width="400" /> 
+</p>
 
 #### Best Hyperparameter for Gene Variation
 
 ![](Images/Best_hyperparameter_Gene_Vatiation.jpg)
 
 #### Conclusion:
-
 
 Even Gene Variation feature is important because the log less is less when compared to Random model but Gene Variation is less stable becuase when compared to Gene feature.
 
@@ -142,6 +135,38 @@ Even Gene Variation feature is important because the log less is less when compa
 #### Conclusion:
 
 The text feature is the most important feature because the log loss is less for all the train,Test and CV data.
+
+
+# Machine learning Models
+
+- K-Nearest Neighbors
+- Logistic Regression with ClassBalancing
+- Logistic Regression without Class Balancing 
+- Support Vector Machines With Class Balancing 
+- Random Forest with one hot encoding 
+- Random Forest with response coding 
+
+
+## Below is a little snip of the logistic regression model confusion matrix and the best hyperparameters.
+
+![](Images/confusion_matrix_logistic_regression.jpg)
+![](Images/precision_matrix_logistic_regression.jpg)
+![](Images/Recall_Matrix_logisticRegression.jpg)
+![](Images/BestHyperparameter_Logistic_regression.jpg)
+
+
+## Analysis summary
+
+![](Images/Final_Results.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
