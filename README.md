@@ -121,7 +121,7 @@ The Logloss for the Gene Feature is less than the Random model and the Gene Feat
 
 #### CDF of GENE Variation
 
-![](Images/CDF_Gene Variation.jpg)
+![](Images/CDF_Gene%20Variation.jpg)
 
 #### Best Hyperparameter for Gene Variation
 
