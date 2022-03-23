@@ -98,7 +98,7 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 
 #### PDF of GENE feature
 
-![](Images/PDF_Gene_Feature .jpg)
+![](Images/PDF_Gene_Feature%20.jpg)
 
 #### CDF of GENE feature
 
@@ -106,9 +106,11 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 
 #### Best Hyperparameter
 
-![](Images/Best_HyperParameter_Gene_feature .jpg)
+![](Images/Best_HyperParameter_Gene_feature%20.jpg)
 
 #### Conclusion:
+
+The Logloss for the Gene Feature is less than the Random model so Gene feture seems to be 
 
 
 
