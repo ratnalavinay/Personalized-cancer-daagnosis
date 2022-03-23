@@ -94,3 +94,24 @@ The Train,Test and Cross Validation data have similar distribution of the class 
 ![](Images/recall_matrix.jpg)
 
 
+## Univariate analysis on Gene Feature 
+
+#### PDF of GENE feature
+
+![](Images/PDF_Gene_Feature .jpg)
+
+#### CDF of GENE feature
+
+![](Images/CDF_Gene-Feature.jpg)
+
+#### Best Hyperparameter
+
+![](Images/Best_HyperParameter_Gene_feature .jpg)
+
+#### Conclusion:
+
+
+
+
+
+
