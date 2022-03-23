@@ -143,7 +143,7 @@ Even Gene Variation feature is important because the log less is less when compa
 
 #### Conclusion:
 
-The text feature is the most important feature because the log loss for all the train,Test and CV data.
+The text feature is the most important feature because the log loss is less for all the train,Test and CV data.
 
 
 
