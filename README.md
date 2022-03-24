@@ -166,6 +166,16 @@ The text feature is the most important feature because the log loss is less for 
 
 ![](Images/Final_Results.jpg)
 
+## Conclusion:
+
+From our analysis, for Gene data and the type of variation the best model is Hyperparameter tuned Logistic Regression model with log-loss of 1.048 on Test split. Reduced the misclassification rate to 34.77%. The performance metric log-loss needs to be minimized, so the closer it to zero the better. If we need to find the best model, then Logistic regression is the best. For future scope, we can try building all the same models with TF-IDF features relacing the countVectorizer and insted of Using all words in the text data using only  top 1000 words based on TF-IDF values and Including both Unigrams and Bigrams and try other feature engineering techniques to resduce the test-logloss to zero.
+
+## Learnings
+
+This was an interesting project as I got an opportunity to work on a  imbalanced dataset . I have also learnt advanced feature engineering techniques like resampling imbalanced data, creating new features, handling missing values etc. I have experimented with various ML algorithms like K-Nearest Neighbour,Logistic Regression with Class balancing,Logistic Regression without class balnce,SVM with class balancing, Random Forest with One-hot encoding,Random Forest with Response encoding with Hyperparameters Tuning etc. out of which the best performing model was the Logistic Regression model (With the lowest Log-Loss and Misclassification rate). I have also got to build some very complex confusion matrix which took a while for me to make sense of. In the business context, the Misclassication rate and  can be improved further by applying more advanced features extraction and data pre-processing techniques and trying out other hyperparameter tuned models.
+
+
+
 
 
 
