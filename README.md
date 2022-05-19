@@ -74,21 +74,6 @@ We are operating on multi class classification problem and the data is imbalance
 The Train,Test and Cross Validation data have similar distribution of the class label Y.<br/>
 
 
-### Confusion matrix 
-
-![](Images/confusion_matrix.jpg)
-
-
-### Precision Matrix
-
-
-![](Images/Precision_Matrix.jpg)
-
-
-### Recall_matrix
-
-
-![](Images/recall_matrix.jpg)
 
 
 ## Univariate analysis on Gene Feature 
