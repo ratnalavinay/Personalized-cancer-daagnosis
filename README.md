@@ -147,18 +147,8 @@ The text feature is the most important feature because the log loss is less for 
 - Random Forest with response coding 
 
 
-## Below is a little snip of the logistic regression model confusion matrix and the best hyperparameters.
 
-###  Confusion matrix
-![](Images/confusion_matrix_logistic_regression.jpg)
 
-###  Precision_matrix
-
-![](Images/precision_matrix_logistic_regression.jpg)
-
-###  Recall_Matrix
-
-![](Images/Recall_Matrix_logisticRegression.jpg)
 
 
 
